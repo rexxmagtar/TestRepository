@@ -1,1 +1,1 @@
-hello! it's version 0.0!
+hello! it's version 0.0! Some work from unknown programmer
